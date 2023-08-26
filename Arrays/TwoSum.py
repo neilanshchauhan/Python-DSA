@@ -15,7 +15,7 @@ for i in range(0,n-1):
 ### Hashmap Approach (LeetCode)
 
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums , target):
 
         obj = {} # val : index
 
