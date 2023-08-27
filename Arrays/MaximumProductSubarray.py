@@ -13,7 +13,7 @@ def maxProduct(nums):
     
     return res
 
-# Striver Approach (Easier)
+# Striver's Approach (Easier)
 
 def maxProduct(nums):
   
