@@ -1,1 +1,1 @@
-print("Palindrome Checker")
+print("Palindrome Tester")
